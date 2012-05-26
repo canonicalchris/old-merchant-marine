@@ -1,20 +1,32 @@
 ;; Comments
 ;; 
-
-:title CHAPTER I. COLONIAL ADVENTURERS IN LITTLE SHIPS
-
-;; :i -> information communicated by author
+;; @date 2012-05-25
+;;
+;; @author robert dot kahlert at gmail dot com
+;;
 ;; :a -> assumption of the reader
-;; :n -> note
+;; :b -> back-reference to an earlier part
+;; :c -> :AUTHOR attempts to correct a supposed misconception
+;;       of the readers
 ;; :e -> expectation that the author sets up
 ;; :f -> feeling that the author wishes to engender in their readers
+;; :i -> information communicated by author
+;; :n -> note
+;; :s -> supports another claim
+;; :x -> extra information the author assumed the readers had
+;; {marker} for forward and back references; sentences are auto-numbered
+;; @{marker} reference to a marker
+;; tt{...} terminus technicus
 
+:{1}
+:title CHAPTER I. COLONIAL ADVENTURERS IN LITTLE SHIPS
 :i The chapter contains information about the colonial times.
 :a The colonial times in question are the colonial times of the later United States of America.
 :i :AUTHOR considers the merchant sailors of the colonial time to be adventerous in undertaking their line of work.
 :i :AUTHOR considers the ship sizes of the merchant sailors of the colonial times to be small. 
 :e :AUTHOR owes the reader the second in the comparison, i.e. compared to which other times the colonial ships were little.
 
+:{2}
 :text The story of American ships and sailors is an epic of blue water which seems singularly remote, almost unreal, to the later generations. 
 :i :AUTHOR uses America to refer to the later United States of America.
 :i The history of the American ships and sailors is narratively comparable to an epic.
@@ -22,6 +34,7 @@
 :i :AUTHOR uses "blue" as a stylistic flourish to underline the epic nature of his narrative.
 :i The present times of the :AUTHOR have changed enough in terms of their stance toward the merchant marine that the account appears fictional.
 
+:{3}
 :text  A people with a native genius for seafaring won and held a brilliant supremacy through two centuries and then forsook this heritage of theirs. 
 :i :AUTHOR analogizes the people of the United States to a singular agent.
 :i That agent has a talent that is essential to the nature of the agent and part of it since the inception of the agent.
@@ -36,6 +49,7 @@
 :i The decline of the supremacy was accepted by the general populace.
 :f By "forsook this heritage of theirs" the :AUTHOR chides the people of the United States of America for not putting their native genius to best use.
 
+:{4}
 :text The period of achievement was no more extraordinary than was its swift declension. 
 :i The supremacy was an achievement.
 :i The period of the supremacy provides the material for an interesting story.
@@ -43,3 +57,97 @@
 :i The loss of the supremacy provides the material for an interesting story.
 :n The loss of supremacy is glossed with "declension".
 :i The loss of supremacy took a short period of time.
+
+:{5}
+:text A maritime race whose topsails flecked every ocean, whose captains courageous from father to son had fought with pike and cannonade to defend the freedom of the seas, turned inland to seek a different destiny and took no more thought for the tall ships and rich cargoes which had earned so much renown for its flag.
+:n :AUTHOR uses "race" as synonym for "people".
+:b :AUTHOR uses "maritime race" to refer back to the "people with native genius for seafaring" in @{3}.
+:i Topsails are a key part of a ship.
+:n :AUTOR uses "topsails" tt{pars pro toto} for the narrated type of ships. 
+:i Ships that belonged to the agentified people traveled on every ocean of the globe.
+:n :AUTHOR uses "captains" tt{pars pro toto} for the mariners.
+:i During the period covered by the narrative, Mariners fought with pikes.
+:i During the period covered by the narrative, Mariners fought with cannonades.
+:e The narrative will show how the captains of the Old Merchant Marine performed acts that :AUTHOR considers indicative of courage.
+:n :AUTHOR uses "from father to son" to mean that the attitude of courage lasted over the generations.
+:n :AUTHOR posits the existance of a "freedom of the seas".
+:n :AUTHOR argues that the freedom of the seas can be endangered.
+:n :AUTHOR argues that the freedom of the seas required defense during the period of the supremacy.
+:i There is a dichotomy between oceans and inland.
+:i The agentified people lost interest in maritime matters.
+:i Agentified people can seek destinies.
+:n :AUTHOR sees the oceans as a locus of social exchange were renown can be garnered through one's actions.
+:n :AUTHOR posits that tall ships can garner renown.
+:n :AUTHOR posits that rich cargoes can garner renown.
+:i :AUTHOR sees flag as a symbol for the agentified people.
+:f :AUTHOR chides the agentified people for loss of interest, as in @{3}.
+
+:{6}
+:text Vanished fleets and brave memories--a chronicle of America which had written its closing chapters before the Civil War! 
+:i The two centuries of supremacy of @{3} ended before the Civil War.
+:x The Civil War began in 1861.
+:n :AUTHOR glosses the narrative as a "chronicle of America".
+:n :AUTHOR glosses the end of the narrative as the "closing chapters".
+:i The number of ships declined significantly.
+:n :AUTHOR glosses the decline in the number of ships as "vanished fleets".
+:i Since no new acts of courage were committed, the only bravery that remained was the bravery of past events remembered as memories.
+
+:{7}
+:text There will be other Yankee merchantmen in times to come, but never days like those when skippers sailed on seas uncharted in quest of ports mysterious and unknown.
+:n :AUTHOR glosses the membership in the agentified people with "Yankee".
+:i The profession of merchant marine sailors has not ended.
+:i The profession of merchant marine sailors is expected to continue to be an available profession in the future.
+:n :AUTHOR glosses merchant marine sailors as "merchantmen".
+:i In the past, sailors had to sail on oceans that were not charted.
+:i In :AUTHOR's present, there are no seas left that are uncharted.
+:i In the past, sailors had to look for new ports. 
+:i In :AUTHOR's present, there are no ports left that are incompletely understood.
+:i In :AUTHOR's present, there are no ports left that the merchant marine does not know about.
+:i Sailing with a lack of information as to location and target of the voyage gave those past days a different semantic quality than the :AUTHOR's present has.
+
+:{8}
+:text The Pilgrim Fathers, driven to the northward of their intended destination in Virginia, landed on the shore of Cape Cod not so much to clear the forest and till the soil as to establish a fishing settlement. 
+:a The "Pilgrim Fathers" are a reference to the early settlers of the Plymouth Colony in 21st century Plymouth, MA, USA, under the leadership of Brownish English Dissenters.
+:i The early settlers of the Plymouth Colony planned to go to Virginia.
+:i The early settlers [of the Plymouth Colony]'s ship was driven to Cape Cod.
+:a The ship was taken off course by weather or current.
+:i Cape Cod is north of Virginia.
+:i The early settlers [of the Plymouth Colony] established a settlement on Cape Cod.
+:i The early settlers [of the Plymouth Colony] cleared the forest.
+:i The early settlers [of the Plymouth Colony] tilled the soil.
+:i The early settlers [of the Plymouth Colony] fished.
+:i The fishing at the Plymouth Colony was the primary purpose of the early settlers.
+:i The clearing of the forest was not the primary purpose of the early settlers.
+:i The soil tilling of the forest was not the primary purpose of the early settlers.
+:c :AUTHOR corrects the misperception that the Pilgrim Fathers had land-focused rather than seaward-focused interests.
+:n :AUTHOR uses the settling of the Plymouth Colony as an exemplary moment.
+:a The settling of the Plymouth Colony is the inception of the agentive people.
+:s Because the seafaring activity of fishing takes place at the inception of the people, the exemplar supports the contention in @{3} that seafaring is part of the native genius of the agentified people.
+
+:{9}
+:text  Like the other Englishmen who long before 1620 had steered across to harvest the cod on the Grand Bank, they expected to wrest a livelihood mostly from salt water. 
+:i The Pilgrim Fathers were Englishmen.
+:i The founding of the Plymouth Colony happened in 1620.
+:a Cape Cod is on the Atlantic Ocean.
+:n :AUTHOR uses "steered across" tt{pars pro toto} for "sailing".
+:i There is a place called the Grand Bank.
+:i There were Englishmen who had sailed from England to the Grand Bank before 1620.
+:i It is proximate to Cape Cod.
+:i The Grand Bank is a place to fish for cod.
+:n :AUTHOR glosses fishing for cod as "harvest" cod.
+:i The Pilgrim Fathers planned to make their livelihood predominantly with cod fishing. 
+:i Cod is a salt-water fish.
+:i Cod fishing is a seafaring activity.
+:n :AUTHOR glosses making their livelihood through a salt-water based seafearing activity with "wrest their livelihood ... from salt water".
+
+:{10}
+:text The convincing argument in favor of Plymouth was that it offered a good harbor for boats and was "a place of profitable fishing." 
+:i There was a disagreement among the Pilgrim Fathers about where to settle.
+:i The disagreement was settled by chosing Plymouth.
+:i One argument for settling at Plymouth was that Plymouth had a good harbor for boats.
+:i One argument for settling at Plymouth was that Plymouth was a place of fishing.
+:i One argument for settling at Plymouth was that the fishing at Plymouth was profitable.
+:i The arguments convinced those who championed a non-Plymouth settlement location.
+
+:{11}
+:text Both pious and amphibious were these pioneers whom the wilderness and the red Indian confined to the water's edge, where they were soon building ships to trade corn for beaver skins with the Kennebec colony.
